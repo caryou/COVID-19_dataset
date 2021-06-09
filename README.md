@@ -1,6 +1,6 @@
 # COVID-19_dataset
 
-This dataset contains a metadata file (train.json) and a folder (article.zip) of related articles. 
+This dataset contains a metadata file (train.json) and a folder (articles.zip) of related articles. 
 
 
 **Description of the JSON metadata format**
