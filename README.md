@@ -16,6 +16,20 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
 - country: the country of the claim originated.
 - explanation: explanation of the labelling result. 
 
+**Sample Data**
+```
+{
+  "claim":" You are 300-900 times more likely to die after getting the COVID-19 vaccine compared to the flu vaccine",
+  "claimant":"Alex Berenson; Twitter",
+  "date":"2021-02-15",
+  "related_articles":[10532,10535,10547,10554,10567,10579],
+  "label":0,
+  "claim_id":76,
+  "country":"United States",
+  "source":" Science Feedback",
+  "explanation":" Pfizer-BioNTech and Moderna COVID-19 vaccines demonstrated a high level of safety and efficacy during clinical trials in order to receive emergency use authorization from the U.S. Food and Drug Administration. Extensive post-approval monitoring also indicates that the vaccines are safe. Apart from severe allergic reactions (anaphylaxis), the data so far doesn’t indicate that the vaccines cause severe side effects in the general population. The U.S. Vaccine Adverse Events Reporting System (VAERS) is an important tool for monitoring vaccine safety, but VAERS reports alone don’t demonstrate that a vaccine caused the adverse event. Further investigation of reported deaths found no causal link with COVID-19 vaccines."
+}
+```
 **Overview**
 - The data folder contain the whole dataset, there are 14,384 claims and 134,321 articles.
 - The foreign_language_articles folder contains articles in 24 different languages other than English:
