@@ -1,0 +1,3 @@
+Ende letzter Woche hat das pharmazeutische Unternehmen Pfizer das Zulassungsgesuch für einen Impfstoff gegen das SARS-CoV-2 Virus eingereicht. Der Impfstoffkandidat basiert auf der mRNA-Technologie des Biotechnologie-Unternehmens BioNTech. Swissmedic prüft nun den Wirkstoff BNT162b2 in einem «Rolling Submission» Verfahren. Swissmedic behandelt alle Gesuche in Verbindung mit der COVID-19 Pandemie beschleunigt und mit erhöhtem Personaleinsatz, ohne Abstriche bei der inhaltlichen Prüfung und namentlich bei der Sicherheit für Anwenderinnen und Anwender zu machen.
+
+article_url: https://www.swissmedic.ch/swissmedic/de/home/news/coronavirus-covid-19/zweites-zlgesuch-covid19-impfstoff.html
