@@ -31,7 +31,7 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
 }
 ```
 ## Overview
-- The data folder contain the whole dataset, there are 14,384 claims and 134,321 articles.
+- The data folder contain the whole dataset, there are 14,384 claims and 134,320 articles.
 - The foreign_language_articles folder contains articles in 24 different languages other than English:
 
 | Language | Number of Articles |
