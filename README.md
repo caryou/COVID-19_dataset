@@ -3,7 +3,7 @@
 This dataset contains a metadata file (train.json) and a folder (articles.zip) of related articles. 
 
 
-**Description of the JSON metadata format**
+## Description of the JSON metadata format
 - ID: an unique ID of each claim.
 - claim: the statement.
 - claimant: the speaker of the claim.
@@ -16,7 +16,7 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
 - country: the country of the claim originated.
 - explanation: explanation of the labelling result. 
 
-**Sample Data**
+## Sample Data
 ```
 {
   "claim":" You are 300-900 times more likely to die after getting the COVID-19 vaccine compared to the flu vaccine",
@@ -30,7 +30,7 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
   "explanation":" Pfizer-BioNTech and Moderna COVID-19 vaccines demonstrated a high level of safety and efficacy during clinical trials in order to receive emergency use authorization from the U.S. Food and Drug Administration. Extensive post-approval monitoring also indicates that the vaccines are safe. Apart from severe allergic reactions (anaphylaxis), the data so far doesn’t indicate that the vaccines cause severe side effects in the general population. The U.S. Vaccine Adverse Events Reporting System (VAERS) is an important tool for monitoring vaccine safety, but VAERS reports alone don’t demonstrate that a vaccine caused the adverse event. Further investigation of reported deaths found no causal link with COVID-19 vaccines."
 }
 ```
-**Overview**
+## Overview
 - The data folder contain the whole dataset, there are 14,384 claims and 134,321 articles.
 - The foreign_language_articles folder contains articles in 24 different languages other than English:
 
@@ -61,8 +61,7 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
 | Marathi | 113 |
 | Arabic | 126 |
 
-**Ethics**
-
+## Ethics
 The data is collected from publicly available news outlets. 
 The contents of the news only reflect the views of the media and authors, and should be viewed with discretion.
 
