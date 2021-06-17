@@ -1,0 +1,3 @@
+MesConseilsCovid Obtenez en 3 minutes des conseils personnalisés pour prendre soin de votre santé et de celle de vos proches.
+
+article_url: https://solidarites-sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/coronavirus-questions-reponses

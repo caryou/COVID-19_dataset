@@ -1,0 +1,3 @@
+{{ article.dateHour }}
+
+article_url: https://www.biobiochile.cl/noticias/nacional/chile/2020/03/18/el-critico-escenario-optimista-de-girardi-deficit-de-3-500-camas-uci-y-calma-parcial-en-agosto.shtml

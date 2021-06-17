@@ -1,0 +1,3 @@
+Généralités Substance(s) Formule Nom Numéro CAS Numéro CE Numéro index Synonymes C2H6O Éthanol 64-17-5 200-578-6 603-002-00-5 Alcool éthylique Formule chimique H3C-CH2-OH Étiquette(s) Éthanol Danger H225 - Liquide et vapeurs très inflammables Nota : Les conseils de prudence P sont sélectionnés selon les critères de lannexe 1 du réglement CE n° 1272/2008. 202-578-6 Selon l’annexe VI du règlement CLP
+
+article_url: http://www.inrs.fr/publications/bdd/fichetox/fiche.html?refINRS=FICHETOX_48

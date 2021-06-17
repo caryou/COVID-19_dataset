@@ -1,0 +1,3 @@
+¿Cómo se clasifican los pirómetros? Pirómetros de radiación de banda ancha Pirómetros de radiación de banda estrecha Pirómetros de radiación de relación Pirómetros ópticos Pirómetros de radiación de fibra óptica Esta clasificación no es rígida. Por ejemplo, los pirómetros ópticos pueden considerarse un subconjunto de los dispositivos de banda estrecha. Los termómetros laser de fibra óptica, pueden clasificarse como dispositivos de banda ancha, de banda estrecha o de relación. Del mismo modo, los termómetros infrarrojos pueden considerarse subconjuntos de varios de estas categorías. En este artículo se ven los tipos de los pirómetros en detalle.
+
+article_url: https://es.omega.com/prodinfo/termometros-infrarrojos.html

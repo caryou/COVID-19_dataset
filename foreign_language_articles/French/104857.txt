@@ -1,0 +1,3 @@
+L’application StopCovid entre les mains des chasseurs de bugs Date: 26 mai. 2020
+
+article_url: https://www.inria.fr/fr/lapplication-stopcovid-entre-les-mains-des-chasseurs-de-bugs

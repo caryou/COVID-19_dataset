@@ -1,0 +1,3 @@
+Este sitio centraliza recursos dirigidos a gobiernos para la introducción y el despliegue exitoso de las vacunas contra la COVID-19, así como recursos para que el público en general pueda obtener respuestas a preguntas relacionadas con las vacunas contra el nuevo coronavirus del 2019. OPS: Inmunización OPS: Fondo Rotatorio OMS: Vacuna contra la COVID-19
+
+article_url: https://www.paho.org/es/vacunas-contra-covid-19
