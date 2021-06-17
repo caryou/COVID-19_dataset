@@ -64,5 +64,3 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
 
 ## Ethics
 The data is collected from publicly available news outlets. 
-The contents of the news only reflect the views of the media and authors, and should be viewed with discretion.
-
