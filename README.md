@@ -64,3 +64,6 @@ This dataset contains a metadata file (train.json) and a folder (articles.zip) o
 
 ## Ethics
 The data is collected from publicly available news outlets. 
+
+## Licensing
+The dataset is free for general research use.
